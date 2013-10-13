@@ -6,7 +6,7 @@ var canvasBg = document.getElementById("canvasBg"),
     canvasHeight = canvasBg.height,
     player1 = new Player(),
     enemies = [],
-    numEnemies = 5,
+    numEnemies = 15,
     obstacles = [],
     isPlaying = false,
     requestAnimFrame =  window.requestAnimationFrame ||
@@ -208,7 +208,7 @@ Bullet.prototype.update = function () {
 };
 
 Bullet.prototype.draw = function () {
-    ctxEntities.fillStyle = "white";
+    ctxEntities.fillStyle = "black";
     ctxEntities.beginPath();
     ctxEntities.arc(this.drawX, this.drawY, this.radius, 0, Math.PI * 2, false);
     ctxEntities.closePath();
