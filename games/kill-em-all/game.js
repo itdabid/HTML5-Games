@@ -73,7 +73,7 @@ function Player() {
     this.drawY = 300;
     this.centerX = this.drawX + (this.width / 2);
     this.centerY = this.drawY + (this.height / 2);
-    this.speed = 5;
+    this.speed = 2;
     this.isUpKey = false;
     this.isRightKey = false;
     this.isDownKey = false;
