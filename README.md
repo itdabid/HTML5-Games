@@ -1,4 +1,8 @@
-gamedev
+HTML5 Game Development
 =======
 
-gamadev.antonoffplus.com
+Source code for <a href="gamadev.antonoffplus.com">gamadev.antonoffplus.com</a>. 
+
+Folder /games/.. consist with HTML5 Games which I've build for evaluation and learning purposes. 
+
+Feel free to use them for your needs.
