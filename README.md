@@ -1,7 +1,7 @@
 HTML5 Game Development
 =======
 
-Source code for <a href="gamadev.antonoffplus.com">gamadev.antonoffplus.com</a>. 
+Source code for <a href="http://gamedev.antonoffplus.com/">gamadev.antonoffplus.com</a>. 
 
 Folder /games/.. consist with HTML5 Games which I've build for evaluation and learning purposes. 
 
